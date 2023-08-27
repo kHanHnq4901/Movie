@@ -1,0 +1,6 @@
++) nâng cấp tài khoản, tài khoản vip phải gia hạn 1 tháng  1 lần, sẽ thông báo về email, nếu không gia hạn, sẽ chuyển về tài khoản thường
++) sửa lại phần bookmarks
++) tích hợp vnp để thanh toán nâng cấp lên tài khoản vip
++) phần admin vẽ biểu đồ thống kê phim được xem nhiều nhất, có bao nhiêu tài khoản nâng cấp vip trong tháng
++) tích hợp thêm phần chatbot
+
